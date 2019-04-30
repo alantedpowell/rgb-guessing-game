@@ -1,0 +1,13 @@
+What is the DOM?
+
+-- Document Object Model
+
+What does it do?
+
+-- Marries JavaScript with HTML and CSS
+
+Using the DOM
+
+-- Remember: SELECT and MANIPULATE
+
+-- SELECT the element... MANIPULATE the element...
