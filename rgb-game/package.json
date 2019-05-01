@@ -1,0 +1,20 @@
+{
+  "name": "rgb-game",
+  "version": "1.0.0",
+  "description": "RGB Color Guessing Game",
+  "main": "rbg.js",
+  "scripts": {
+    "test": "echo \"Hello Alan\" ",
+    "deploy": "gh-pages -d rgb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alantedpowell/rgb-guessing-game.git"
+  },
+  "author": "Alante' D. Powell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alantedpowell/rgb-guessing-game/issues"
+  },
+  "homepage": "https://github.com/alantedpowell/rgb-guessing-game#readme"
+}
